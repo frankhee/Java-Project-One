@@ -39,12 +39,6 @@ public class Project01 {
 		
 		int answer6 = (firstNumber + secondNumber)/2;
 		System.out.println("The average of your two numbers is: " + answer6);
-		
-	
-	
-	
-	
-	
 	
 	}
 
