@@ -1,23 +1,23 @@
 # Java-Projects
 Various Java projects completed for CSE courses:
 
-Project 1: Using Java to perform math functions.
+Project 01: Using Java to perform math functions.
 
-Project 2: Using Java to perform different methods on String objects.
+Project 02: Using Java to perform different methods on String objects.
 
-Project 3: An interactive math game with users.
+Project 03: An interactive math game with users.
 
-Project 4: An interactive player vs. PC game.
+Project 04: An interactive player vs. PC game.
 
-Project 5: An interactive number guessing game.
+Project 05: An interactive number guessing game.
 
-Project 6: A program that checks Validity of a given credit card number. 
+Project 06: A program that checks Validity of a given credit card number. 
 
-Project 7: A program that plays the dice game high/low. Used to practice breaking code up into methods.
+Project 07: A program that plays the dice game high/low. Used to practice breaking code up into methods.
 
-Project 8: A program that converts decimal numbers into binary numbers. Used to practice breaking code up into methods.
+Project 08: A program that converts decimal numbers into binary numbers. Used to practice breaking code up into methods.
 
-Project 9: A program that converts binary numbers into decimal numbers. Used to practice breaking code up into methods.
+Project 09: A program that converts binary numbers into decimal numbers. Used to practice breaking code up into methods.
 
 Project 10: A program that plays and scores a round of the game Poker Dice.  In this game,
  *   five dice are rolled.  The player is allowed to select a number of those five dice
